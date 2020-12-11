@@ -46,7 +46,7 @@ function App() {
                     <Route path="/login">
                         <Login />
                     </Route>
-
+                    {/*Checkout*/}
                     <Route path="/checkout">
                         <Header/>
                         <Checkout />
