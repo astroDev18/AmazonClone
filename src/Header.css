@@ -65,5 +65,8 @@
     margin-left: 10px;
     margin-right: 10px;
     color: white;
+    text-decoration: none;
 }
-
+a {
+text-decoration: none;
+}
